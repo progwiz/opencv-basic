@@ -1,2 +1,2 @@
 # opencv-basic
-Basic image manipulation operations using opencv library for Python
+Basic geometric transformations for images like rotation, scaling etc. using opencv library for Python
